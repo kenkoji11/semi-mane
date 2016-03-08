@@ -22,9 +22,6 @@ body {
     font-size:13px;
      height:100%;
     }
-div {
-    height:100%;
-}
 
 }
 
@@ -1029,6 +1026,7 @@ PANELS CONFIGURATIONS
 	background: #ccd1d9;
 	padding: 3px;
 	margin-bottom: 15px;
+    height:40px;
 }
 .grey-panel h5 {
 	font-weight: 200;
